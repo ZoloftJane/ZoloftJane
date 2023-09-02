@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 I'm Jane
 - I’m currently working on SO UPS
 - I'm interested in Data Science, Machine Learning, Python, Statistics, Data Visualization
